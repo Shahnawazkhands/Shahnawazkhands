@@ -4,7 +4,7 @@
 
 🔭 I have completed my Bachelor of Technology (B-Tech) in 2018 from Maharashtra Institute of Technology (MIT), Aurangabad.
 
-🔭 I have overall 4.7 years of experience in the field of Data Science as Data Analyst.
+🔭 I have overall 4+ years of experience in the field of Data Science as Data Analyst.
 
 🔭 I am really passionate about Python, Statistics, Artificial Intelligence, Machine Learning, Data Science, Data Analysis and Business Intelligence.
 
